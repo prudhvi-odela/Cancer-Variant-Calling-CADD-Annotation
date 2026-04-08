@@ -1,0 +1,14 @@
+raw_reads/
+trimmed_reads/
+aligned/
+reference/
+annotation/SRR098401_annotated.vcf
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.bai
+*.vcf.gz
+*.tbi
+*.html
+*.json
